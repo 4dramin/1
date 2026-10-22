@@ -1,0 +1,13 @@
+{
+  "title": "ExamPrep IQ protected SOD and Developing edition",
+  "publisher": "Dr. Amin Mefreh",
+  "authorized_origin": "https://4dramin.github.io/1/",
+  "generated_utc": "2026-10-21T23:24:09.647620+00:00",
+  "encrypted_bank_sha256": "9f6e0d3abb8cec75490b4e5bbf070dc6e716f6e11b351a918ca5c2d41cbd7422",
+  "encrypted_app_sha256": "0c47369a5172fc2297e01d9ed347d35780f3cf7d5eeb412114b16b7c5aa9f487",
+  "html_sha256": "e047791d715e79fa0f64702b6ed155adf2ff8617151dfe2cdf7a1adeb13b1b35",
+  "total_mocks": 100,
+  "sections": 400,
+  "questions": 2600,
+  "details": "Client-side encryption, origin restriction and visible attribution deter casual reuse but do not prevent skilled source inspection, rehosting, or tampering; do not claim absolute protection."
+}
